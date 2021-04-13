@@ -8,15 +8,35 @@
     text-align: center;
 }
 table, td {
-    border: 1px solid black;
+    border: 1px solid rgb(158, 18, 72);
+    
   }
 
 table {
     border: 2px solid rgb(196, 42, 157);
     width: 650px;
     margin: 0 auto;
+
+
+    
+}
+td{
+    background-color: cornsilk;
+    text-align: center;
 }
 th{
     text-align: center;
     background-color: burlywood;
+
+}
+*{
+  background-color: blanchedalmond;  
+}
+
+footer{
+    text-align: center;
+    font-weight: small ;
+}
+#credit{
+    font-family: monospace, Helvetica, sans-serif;
 }
