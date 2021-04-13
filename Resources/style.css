@@ -1,0 +1,22 @@
+.code {
+    
+    font-family: monospace;
+    background-color: beige;   
+}
+.header{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+table, td {
+    border: 1px solid black;
+  }
+
+table {
+    border: 2px solid rgb(196, 42, 157);
+    width: 650px;
+    margin: 0 auto;
+}
+th{
+    text-align: center;
+    background-color: burlywood;
+}
